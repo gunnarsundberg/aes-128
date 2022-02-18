@@ -1,6 +1,6 @@
 # AES-128
 
-C++ implementation of 128-bit AES encryption and decription for CIS4362 - Applied Cryptography at Florida Poly in Spring of 2021. 
+C++ implementation of 128-bit AES encryption and decryption for CIS4362 - Applied Cryptography at Florida Poly in Spring of 2021. 
 
 ## Setup
 1. Compile with ```g++ -c main.cpp src/aes_128_common.cpp src/aes_128_encrypt.cpp src/aes_128_decrypt.cpp src/aes_128_key_expansion.cpp encryption_driver.cpp decryption_driver.cpp key_expansion_driver.cpp```
