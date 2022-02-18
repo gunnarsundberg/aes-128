@@ -1,4 +1,4 @@
-Gunnar Sundberg
+# AES-128
 
 C++ implementation of 128-bit AES encryption and decription for CIS4362 - Applied Cryptography at Florida Poly in Spring of 2021. 
 
